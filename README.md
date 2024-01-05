@@ -6,7 +6,7 @@
 
 > Desenvolvido na Next Level Week da Rocketseat 🚀
 
-Plataforma onde você pode encontrar um aliado para jogar seu jogo favorito juntos.
+Plataforma onde você pode formar uma dupla para jogar seu jogo favorito juntos.
 
 ## Instalação / Execução
 
