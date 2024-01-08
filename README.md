@@ -55,3 +55,7 @@ A API foi desenvolvida em **NodeJS** com **Express** e **TypeScript**.
 Foi utilizado o ORM **Prisma** com **SQLite** para criação e modelagem do banco de dados, juntamente com a integração da API com o banco de dados.
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Mobile
+
+🚧 Em desenvolvimento 🚧
