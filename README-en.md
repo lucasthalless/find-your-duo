@@ -57,3 +57,5 @@ The ORM **Prisma** with **SQLite** was used for creation and modeling of the dat
 ### Mobile
 
 🚧 Under development 🚧
+
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
